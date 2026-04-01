@@ -11,7 +11,7 @@ Route::get('/about', function () {
 });
 
 Route::get('/home', function () {
-    return ('selamat datang di halaman home');
+    return ('selamat datang di halaman baru');
 });
 
 // ini adalah lanjutan modul 2
